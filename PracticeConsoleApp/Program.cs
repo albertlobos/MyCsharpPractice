@@ -15,6 +15,7 @@ Console.WriteLine(dog.GetType()); //Gives class type
  project on github*/
 
 //Created a remote project and connected this local git to that one.
+//Added this into the new branch called newBranch
 class Animal
 {
     private string _type;
