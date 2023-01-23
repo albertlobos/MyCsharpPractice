@@ -8,9 +8,11 @@ Animal dog = new Animal("dog", 12, true);
 Console.WriteLine(dog);
 Console.WriteLine(dog.ToString());
 Console.WriteLine(dog);
-Console.WriteLine(dog.getAge() + "  " + dog.getType() + "  wIs it a pet?: " + dog.getIsPet());
+Console.WriteLine(dog.getAge() + "  " + dog.getType() + "  wIs it a pet?: " + dog.getIsPet()); //Practicing with C#
 Console.WriteLine(dog.GetType()); //Gives class type
 
+/*Trying to get better at Git so i am writing this to add it and then commit it. I will then psuh this onto the remote
+ project on github*/
 
 
 class Animal
