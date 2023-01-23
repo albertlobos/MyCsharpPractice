@@ -1,0 +1,15 @@
+/Users/nelso/RiderProjects/PracticeConsolApp/PracticeConsoleApp/bin/Debug/net7.0/PracticeConsoleApp
+/Users/nelso/RiderProjects/PracticeConsolApp/PracticeConsoleApp/bin/Debug/net7.0/PracticeConsoleApp.deps.json
+/Users/nelso/RiderProjects/PracticeConsolApp/PracticeConsoleApp/bin/Debug/net7.0/PracticeConsoleApp.runtimeconfig.json
+/Users/nelso/RiderProjects/PracticeConsolApp/PracticeConsoleApp/bin/Debug/net7.0/PracticeConsoleApp.dll
+/Users/nelso/RiderProjects/PracticeConsolApp/PracticeConsoleApp/bin/Debug/net7.0/PracticeConsoleApp.pdb
+/Users/nelso/RiderProjects/PracticeConsolApp/PracticeConsoleApp/obj/Debug/net7.0/PracticeConsoleApp.csproj.AssemblyReference.cache
+/Users/nelso/RiderProjects/PracticeConsolApp/PracticeConsoleApp/obj/Debug/net7.0/PracticeConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nelso/RiderProjects/PracticeConsolApp/PracticeConsoleApp/obj/Debug/net7.0/PracticeConsoleApp.AssemblyInfoInputs.cache
+/Users/nelso/RiderProjects/PracticeConsolApp/PracticeConsoleApp/obj/Debug/net7.0/PracticeConsoleApp.AssemblyInfo.cs
+/Users/nelso/RiderProjects/PracticeConsolApp/PracticeConsoleApp/obj/Debug/net7.0/PracticeConsoleApp.csproj.CoreCompileInputs.cache
+/Users/nelso/RiderProjects/PracticeConsolApp/PracticeConsoleApp/obj/Debug/net7.0/PracticeConsoleApp.dll
+/Users/nelso/RiderProjects/PracticeConsolApp/PracticeConsoleApp/obj/Debug/net7.0/refint/PracticeConsoleApp.dll
+/Users/nelso/RiderProjects/PracticeConsolApp/PracticeConsoleApp/obj/Debug/net7.0/PracticeConsoleApp.pdb
+/Users/nelso/RiderProjects/PracticeConsolApp/PracticeConsoleApp/obj/Debug/net7.0/PracticeConsoleApp.genruntimeconfig.cache
+/Users/nelso/RiderProjects/PracticeConsolApp/PracticeConsoleApp/obj/Debug/net7.0/ref/PracticeConsoleApp.dll
