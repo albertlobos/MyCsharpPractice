@@ -15,6 +15,7 @@ Console.WriteLine("\n\\\\\\\\Just added this line to practice some things with g
 
 /*Trying to get better at Git so i am writing this to add it and then commit it. I will then push this onto the remote
  project on github*/
+//Okay this i will only add into the newBranch Repo
 
 //Created a remote project and connected this local git to that one.
 //Added this into the new branch called newBranch
